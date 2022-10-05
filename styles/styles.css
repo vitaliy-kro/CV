@@ -3,6 +3,9 @@ body {
   background-color: #f5f7fa;
   margin: 0;
 }
+p {
+  margin: 0;
+}
 /* main styles */
 .main {
   display: flex;
