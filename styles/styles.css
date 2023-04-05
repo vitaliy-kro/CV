@@ -29,6 +29,7 @@ p {
   line-height: 17px;
   color: #000000;
   margin: 0;
+  margin-bottom: 15px;
 }
 .about-name {
   font-style: normal;
@@ -44,7 +45,7 @@ p {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
-  width: 400px;
+  width: 100%;
 }
 /* project styles */
 .projects {
